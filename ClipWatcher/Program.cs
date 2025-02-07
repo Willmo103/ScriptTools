@@ -86,3 +86,5 @@ namespace ClipWatcher
     }
 }
 
+
+// Minor fix: Updated Clipboard usage to instance-based API.
